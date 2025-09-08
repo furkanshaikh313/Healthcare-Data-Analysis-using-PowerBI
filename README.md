@@ -64,8 +64,8 @@ The dataset includes attributes such as **Date, ID, Gender, Age, Race, Time (AM/
 ---
 
 ## 📊 Dashboard Preview  
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)  
-![](https://github.com/gopiashokan/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)  
+![](https://github.com/furkanshaikh313/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)  
+![](https://github.com/furkanshaikh313/Healthcare-Data-Analysis-using-PowerBI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)  
 
 ---
 
